@@ -20,6 +20,5 @@ def self.find(id,db)
   Pokemon.new(id:id,name:name,type:type,db:db)
 end
 
-end
 
 end
